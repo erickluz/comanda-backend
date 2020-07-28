@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ComandaApplication<comanda>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.erick.comanda.ComandaApplication",
+            "projectName": "comanda",
+            "args": ""
+        }
+    ]
+}
